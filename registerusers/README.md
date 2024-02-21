@@ -1,9 +1,3 @@
-#   ____   _           _               _     _                       _
-#  / ___| | |   ___   | |__     __ _  | |   | |       ___     __ _  (_)   ___
-# | |  _  | |  / _ \  | '_ \   / _` | | |   | |      / _ \   / _` | | |  / __|
-# | |_| | | | | (_) | | |_) | | (_| | | |   | |___  | (_) | | (_| | | | | (__
-#  \____| |_|  \___/  |_.__/   \__,_| |_|   |_____|  \___/   \__, | |_|  \___|                                                            #                                                            |___/
-
 # Servicio de Creación de Usuarios
 
 Este servicio permite la creación de usuarios. Desarrollado como parte de una prueba de habilidades, el proyecto está en desarrollo y no se recomienda su uso en un entorno de producción.
