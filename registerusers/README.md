@@ -19,7 +19,7 @@ Asegúrese de tener instalados los siguientes elementos en su entorno de desarro
 ### Pasos de Instalación
 1. **Clonar el Repositorio:**
     ```bash
-    git clone git@github.com:thesaintve/nttDataJavaTest.git
+    git clone https://github.com/juniordiazr/repotest.git
     cd registerusers
     ```
 
@@ -28,9 +28,9 @@ Asegúrese de tener instalados los siguientes elementos en su entorno de desarro
 
 
 3. **Compilar la Aplicación con Maven:**
-    ./maven clean build --refresh-dependencies
+    mvn clean install -U
 4. **Ejecutar la Aplicación con Maven:**
-      ./maven bootRun
+    mvn spring-boot:run
 
 ## Uso de la Aplicación
 1. **Acceder a la Aplicación:**
